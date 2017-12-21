@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quick Pulse</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_options">Add Pulse Options</string>
+    <string name="activity_add_option_Hint">Add Option</string>
+    <string name="activity_add_friend_Hint">Email address</string>
+    <string name="title_activity_invite_friends">InviteFriends</string>
+    <string name="addFriend">Add a Friend</string>
+    <string name="sendPulse">Send this Pulse!</string>
+    <string name="submitVoteButton">Submit your Vote</string>
+</resources>

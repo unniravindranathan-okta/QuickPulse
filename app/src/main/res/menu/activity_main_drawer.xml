@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_myinvitations"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="My QuickPulse Invitations" />
+        <item
+            android:id="@+id/nav_createpulse"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Create a new QuickPulse" />
+        <item
+            android:id="@+id/nav_managepulses"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Manage QuickPulses" />
+    </group>
+
+</menu>
